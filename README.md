@@ -1,6 +1,6 @@
 # css-cog
 create a css cog polygon by javascript
-Derived from [https://assets.stoumann.dk/js/app-polygon.mjs](https://codepen.io/stoumann/pen/MWjBRJv)
+Derived from https://codepen.io/stoumann/pen/MWjBRJv
 
 
 # How To Use
